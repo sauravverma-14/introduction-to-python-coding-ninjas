@@ -6,3 +6,24 @@ test2=int(input())
 test3=int(input())
 average=(test1+test2+test3)/3
 print(average)
+
+#Question-Find X raised to power N
+# Wr your code here
+x=int(input())
+n=int(input())
+print(x**n)
+
+#Question-Arithmetic Progression
+a=int(input())
+b=int(input())
+c=int(input())
+d=b-a
+print(d)
+
+#Question-Rectangular Area
+x1=int(input())
+x2=int(input())
+y1=int(input())
+y2=int(input())
+area=(y1-x1)*(y2-x2)
+print(area)
